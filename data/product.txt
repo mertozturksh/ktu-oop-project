@@ -1,0 +1,38 @@
+elbise-Tuvit Elbise-359.90
+elbise-Triko Elbise-329.90
+elbise-Kisa Kollu Elbise-449.00
+elbise-Gomlek Elbise-219.90
+elbise-Bogazli Elbise-299.90
+
+tisort-Bisiklet Yaka Tisort-119.90
+tisort-Oversize Tisort-149.90
+tisort-Balikci Yaka Tisort-199.90
+tisort-Baskili Oversize-89.90
+tisort-Bluz-179.90
+tisort-Uzun Kollu Crop-159.90
+
+pantolon-Ispanyol Paca Pantolon-109.99
+pantolon-Kumas Pantolon-140.00
+pantolon-Deri Pantolon-340.49
+pantolon-Kot Pantolon-319.90
+pantolon-Yuksek Bel Pantolon-175.99
+
+gomlek-Ceket Gomlek-199.99
+gomlek-Oversize Gomlek-119.90
+gomlek-Saten Gomlek-219.90
+gomlek-Salas Gomlek-109.99
+gomlek-Deri Gomlek-239.99
+gomlek-Oduncu Gomlek-165.49
+
+etek-Deri Etek-279.90
+etek-Pileli Etek-219.99
+etek-Yuksek Bel Etek-109.99
+etek-Triko Etek-179.90
+etek-Zebra Etek-145.95
+
+ayakkabi-Sandalet-199.90
+ayakkabi-Terlik-75.49
+ayakkabi-Spor Ayakkabi-799.90
+ayakkabi-Deri Bot-469.90
+ayakkabi-Cizme-449.99
+ayakkabi-Topuklu Ayakkabi-569.90
