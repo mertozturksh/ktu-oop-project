@@ -2451,9 +2451,8 @@ void ProductEntryAction::doAction() {
 
 	Buffer::print(Buffer::horizontalBottomDivider);
 
-	string fname = "product";
 	string newClothe = category + '-' + productName + '-' + price;
-	writeFile(fname, newClothe);
+	writeFile(productFile, newClothe);
 
 	// kullaniciyi bilgilendir islem basarili.
 	system("cls");
